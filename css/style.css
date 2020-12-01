@@ -2,16 +2,18 @@
 body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
 .w3-row-padding img {margin-bottom: 12px}
 .bgimg {
-background-position: center;
-background-repeat: no-repeat;
-background-size: cover;
-background-image: url('/w3images/profile_girl.jpg');
-min-height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url('../images/yeboah.jpg');
+  min-height: 100%;
+  color: black;
+  text-align: center;
+  text-overflow: ellipsis;
 }
 
 
-
 #welcome-section{
-height: 100%;
-overflow: hidden;
+  height: 100%;
+  overflow: hidden;
 }
